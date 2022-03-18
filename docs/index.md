@@ -1,5 +1,3 @@
-# GEVT - Guia de Estudo Viação e Trânsito
-
     Breve guia para o curso de condução 
     baseado nas instruções e normas estabelecidas
     pela direcção angolana de viação e trânsito.
@@ -66,5 +64,5 @@ Um automóvel está constituido por:
   - Biela;
   - Volante do motor;
 
-&copy; 2022 Nurul-GC
-&license; AFL
+&copy; 2022 Nurul-GC \
+![licensed](https://img.shields.io/github/license/Nurul-GC/gevt?style=social)
