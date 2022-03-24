@@ -36,7 +36,7 @@ f. Sinais dos Condutores;**
 
 1. Um **automóvel** é definido como um **veículo** com **motor** de propulsão, dotado de pelo menos quatro rodas e `tara` superior à 550kg e cuja velocidade é por construção, superior a 25km/h e que se destina a transitar na via pública sem sujeição a carris.
 
-<small>`Tara`: também conhecido como o peso padrão do veículo, ie, sem ocupação ou carga sobre o mesmo.</small>
+<small>`Tara`: também conhecido como o peso do veículo em ordem de marcha, isto é, sem ocupação ou carga sobre o mesmo.</small>
 
 Um automóvel está constituido por:
 
@@ -45,11 +45,11 @@ Um automóvel está constituido por:
 - **Caixa ou Carroçaria**;
   - *É a estrutura metálica que define as formas do veículo e separa o `habitáculo` do compartimento de bagagem.*
 
-<small>`Habitáculo`: também conhecido como interior do veículo onde encontramos várias peças de comando e acomodação.</small>
+<small>`Habitáculo`: também conhecido como compartimento fechado de um meio de transporte destinado ao condutor ou aos ocupantes, contendo várias peças de comando e acomodação.</small>
 
-2. Um **veículo** é um artefacto com ou sem tracção mecânica, destinado ao transporte de passageiros e de mercadorias.
+1. Um **veículo** é um artefacto com ou sem tracção mecânica, destinado ao transporte de passageiros e de mercadorias.
 
-3. O **motor** é um conjunto de peças fixas e móveis que se encarregam da transformação da energia calorífica em mecânica, atravez dos tempos de explosão e expansão nos cilindros.
+2. O **motor** é um conjunto de peças fixas e móveis que se encarregam da transformação da energia calorífica em mecânica, atravez dos tempos de explosão e expansão nos cilindros.
 
 - As peças fixas do motor são:
   - Tampa da Culatra;
