@@ -251,6 +251,6 @@ Um automóvel está constituido por:
 <div align="center">
 
 &copy; 2022 Nurul-GC
-![licensed under..](https://img.shields.io/github/license/Nurul-GC/gevt?style=social)
+![licensed](https://img.shields.io/github/license/Nurul-GC/gevt?style=social)
 
 </div>
