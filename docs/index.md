@@ -68,6 +68,7 @@ a. **Sinais Verticais**;
 b. **Marcas Rodoviarias** - Destinam-se a regular a circulação a advertir e orientar os utentes das vias públicas, podendo ser completadas com outros meios de sinalização;
 
    1. **Marcas Longitudinais** - são marcas postas na faixa de rodagem separando sentidos ou vias de trânsito, estão sub-divididas por:
+
       1. **Linha Contínua** - Significa para o condutor proibição de a pisar ou transpor e o dever de transitar à sua direita, quando aquela fizer a separação de sentidos de trânsito;
       2. **Linha Descontínua** - Significa para o condutor o dever de se manter na via de trânsito que ela delimita, só podendo ser pisada ou transposta para efectuar manobras;
       3. **Linha Mista** - Constituida por uma linha contínua adjacente e outra descontínua, tem para o condutor o significado consoante a linha que lhe estiver mais próxima;
