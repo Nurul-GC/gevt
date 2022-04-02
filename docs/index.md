@@ -230,14 +230,26 @@ Um automóvel está constituido por:
 
 ---
 
-| Pontos a Ponderar Sobre o Código de Estrada |
-| :---: |
-| - Foi aprovado internacionalmente no dia **17 de Setembro de 1949 em Genebra (Suiça)** e foram admitidos 134 sinais, subdivididos em quatro grupos: **perigo, proibição, obrigação e informação**. |
-| - Foi aprovado em Angola no dia 20 de Maio de 1954 pelo **decreto lei 39.672/54** que regula genericamente o trânsito. |
-| - Foi revogado em Angola no dia **29 de Setembro de 2008** pelo **decreto lei 05/08** e entrou em vigor a **01 de Abril de 2009** |
-| - O código de estrada angolano contém **178 artigos**. |
+## Pontos a Ponderar Sobre o Código de Estrada
+
+- Foi aprovado internacionalmente no dia **17 de Setembro de 1949 em Genebra (Suiça)** e foram admitidos 134 sinais, subdivididos em quatro grupos: **perigo, proibição, obrigação e informação**;
+- Foi aprovado em Angola no dia 20 de Maio de 1954 pelo **decreto lei 39.672/54** que regula genericamente o trânsito;
+- Foi revogado em Angola no dia **29 de Setembro de 2008** pelo **decreto lei 05/08** e entrou em vigor a **01 de Abril de 2009**;
+- O código de estrada angolano contém **178 artigos**;
 
 ---
 
+## Materiais de Apoio
+
+- [Manual de Código de Estrada (Angolano) - 2008](assets/codigo_estrada_2008.pdf)
+- [Legislações Complementares ao Código de Estrada (Angolano) - 2002](assets/Codigo_Estrada_Legislacoes_2002.pdf)
+- [Guia de Sinalização Rodoviária (Português) - 2003](assets/Sinalizacao_Rodoviaria.pdf)
+
+---
+
+<div align="center">
+
 &copy; 2022 Nurul-GC \
-![license](https://img.shields.io/github/license/Nurul-GC/gevt?style=social)
+![licensed under..](https://img.shields.io/github/license/Nurul-GC/gevt?style=social)
+
+</div>
