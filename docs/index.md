@@ -21,70 +21,102 @@ A sinalização de trânsito compreende os seguintes sinais:
 
 a. **Sinais Verticais**;
 
-   1. **Sinais de Perigo** - Indicam a existência ou a possibilidade de aparecimento de condições particularmente perigosas para o trânsito e imponhem especial atenção e prudência ao condutor;
+1. **Sinais de Perigo** - Indicam a existência ou a possibilidade de aparecimento de condições particularmente perigosas para o trânsito e imponhem especial atenção e prudência ao condutor;
 
-   2. **Sinais de Regulamentação** - Transmitem aos utentes obrigações, restrições ou proibições especiais e subdividem-se em:
+2. **Sinais de Regulamentação** - Transmitem aos utentes obrigações, restrições ou proibições especiais e subdividem-se em:
 
-        1. **Sinais de Cedência de Passagem** - Informam aos condutores da existência de um cruzamento, entrocamento, rotunda ou passagem estreita, onde lhes é imposto um determinado comportamento ou especial atenção;
+   1. **Sinais de Cedência de Passagem** - Informam aos condutores da existência de um cruzamento, entrocamento, rotunda ou passagem estreita, onde lhes é imposto um determinado comportamento ou especial atenção;
+   2. **Sinais de Proibição** - Transmitem aos utentes a interdição de determinados comportamentos;
+   3. **Sinais de Obrigação** - Transmitem aos utentes a imposição de determinados comportamentos;
+   4. **Sinais de Prescrição Específica** - Transmitem a imposição ou proibição de determinados comportamentos:
 
-        2. **Sinais de Proibição** - ...;
+      1. **Sinais de Seleção de Vias** - Indicam destinos e seleções de vias;
+      2. **Sinais de Afectação de Vias** - Indicam prescrições a vias de trânsito;
+      3. **Sinais de Zona** - Figuram informações úteis sobre as restrições, proibições ou obrigações a respeitar;
 
-        3. **Sinais de Obrigação** - ...;
+3. **Sinais de Indicação** - Destinam-se a dar indicações úteis aos utentes e subdividem-se em:
 
-        4. **Sinais de Prescrição Específica** - ...:
+   1. **Sinais de Informação**;
+   2. **Sinais de Pré-Sinalização** - Indicam os destinos de saída de uma interseção, completados ou não com indicações sobre o itinerário;
+   3. **Sinais de Direcção** - Indicam os destinos de saída, que podem estar associados à identificação da estrada que os serve;
+   4. **Sinais de Confirmação**;
+   5. **Sinais de Identificação de Localidades**;
+   6. **Sinais Complementares** - Destinam-se a complementar indicações dadas por outros sinais;
+   7. **Painéis Adicionais** - Representados no quadro em anexo (abaixo do sinal principal), destinam-se a completar a indicação dada pelos sinais verticais, restrigindo a sua aplicação a certas categorias de utentes da via pública, limitando a sua validade a determinados períodos de tempo ou indicando a extensão da via em que vigoram as prescrições;
 
-            1. **Sinais de Seleção de Vias** - ...;
+4. **Sinalização de Mensagem Variável** - Tem por finalidade melhorar a fluidez da circulação e garantir a segurança dos condutores, designadamente nas seguintes situações:
 
-            2. **Sinais de Afectação de Vias** - ...;
+   1. `Perigo decorrente de uma situação que imponha intervenção urgente`;
+   2. `Interrupção de acesso ou impedimento de circulação no âmbito de medidas temporárias de condicionamento do trânsito`;
+   3. `Informações sobre as condições de circulação, designadamente perturbações excepcionais e imprevistas, com o objectivo de as melhorar`;
 
-            3. **Sinais de Zona** - ...;
-
-   3. **Sinais de Indicação** - Destinam-se a dar indicações úteis aos utentes e subdividem-se em:
-
-       1. **Sinais de Informação**;
-
-       2. **Sinais de Pré-Sinalização** - Indicam os destinos de saída de uma interseção, completados ou não com indicações sobre o itinerário;
-
-       3. **Sinais de Direcção** - Indicam os destinos de saída, que podem estar associados à identificação da estrada que os serve;
-
-       4. **Sinais de Confirmação**;
-
-       5. **Sinais de Identificação de Localidades**;
-
-       6. **Sinais Complementares** - Destinam-se a complementar indicações dadas por outros sinais;
-
-       7. **Painéis Adicionais** - Representados no quadro em anexo (abaixo do sinal principal), destinam-se a completar a indicação dada pelos sinais verticais, restrigindo a sua aplicação a certas categorias de utentes da via pública, limitando a sua validade a determinados períodos de tempo ou indicando a extensão da via em que vigoram as prescrições;
-
-   4. **Sinalização de Mensagem Variável** - Tem por finalidade melhorar a fluidez da circulação e garantir a segurança dos condutores, designadamente nas seguintes situações:
-
-       1. `Perigo decorrente de uma situação que imponha intervenção urgente`;
-
-       2. `Interrupção de acesso ou impedimento de circulação no âmbito de medidas temporárias de condicionamento do trânsito`;
-
-       3. `Informações sobre as condições de circulação, designadamente perturbações excepcionais e imprevistas, com o objectivo de as melhorar`;
-
-   5. **Sinalização Turistico-Cultural** - Destinam-se a transmitir aos utentes indicações sobre locais, imóveis ou conjunto de imóveis e outros motivos que possuam uma especial relevância de âmbito cultural, histórico-patrimonial ou paisagístico;
+5. **Sinalização Turistico-Cultural** - Destinam-se a transmitir aos utentes indicações sobre locais, imóveis ou conjunto de imóveis e outros motivos que possuam uma especial relevância de âmbito cultural, histórico-patrimonial ou paisagístico;
 
 b. **Marcas Rodoviarias** - Destinam-se a regular a circulação a advertir e orientar os utentes das vias públicas, podendo ser completadas com outros meios de sinalização;
 
-   1. **Marcas Longitudinais** - são marcas postas na faixa de rodagem separando sentidos ou vias de trânsito, estão sub-divididas por:
+1. **Marcas Longitudinais** - são marcas postas na faixa de rodagem separando sentidos ou vias de trânsito, estão sub-divididas por:
 
-      1. **Linha Contínua** - Significa para o condutor proibição de a pisar ou transpor e o dever de transitar à sua direita, quando aquela fizer a separação de sentidos de trânsito;
-      2. **Linha Descontínua** - Significa para o condutor o dever de se manter na via de trânsito que ela delimita, só podendo ser pisada ou transposta para efectuar manobras;
-      3. **Linha Mista** - Constituida por uma linha contínua adjacente e outra descontínua, tem para o condutor o significado consoante a linha que lhe estiver mais próxima;
-      4. **Linha Descontínua de Aviso** - É constituida por traços de largura normal co intervalos curtos, com o mesmo significado que a [marca 2](/ "Linha Descontinua") e indica a aproximação de uma linha contínua ou de uma passagem estreita;
-      5. **Linhas de Sentido Reversível** - São linhas delimitadoras de vias de trânsito com sentido reversível, constituidas por duas linhas descontínuas adjacentes e destinam-se a delimitar, de ambos os lados, as vias nas quais o sentido de trânsito pode ser alterado através de outros meios de sinalização;
-      6. **Linha Descontínua de Abrandamento ou Aceleração** - É constituida por traços largos, com o mesmo significado que a [marca 2](/ "Linha Descontinua") e delimita uma via de trânsito em que se pratica uma velocidade diferente;
-      7. **Linha Contínua e Descontínua (BUS)** - São constituidas por linhas largas contínuas ou descontínuas, delimitando uma via de trânsito e com o mesmo significado que as [marcas 1 e 2](/ "Linha Continua e Descontinua"), respectivamente estas marcas destinam-se a identificar aquela via de trânsito como corredor de circulação para veículos de transporte público;
-      8. **Duas Linhas Adjacentes** - São excepcionalmente utilizadas na proximidade de locais que ofereçam particular perigo para a circulação, designadamente, lombas, cruzamentos, entrocamentos e locais de visibilidade reduzida e têm o mesmo significado que a [marca 1](/ "Linha Continua");
+   1. **Linha Contínua** - Significa para o condutor proibição de a pisar ou transpor e o dever de transitar à sua direita, quando aquela fizer a separação de sentidos de trânsito;
+   2. **Linha Descontínua** - Significa para o condutor o dever de se manter na via de trânsito que ela delimita, só podendo ser pisada ou transposta para efectuar manobras;
+   3. **Linha Mista** - Constituida por uma linha contínua adjacente e outra descontínua, tem para o condutor o significado consoante a linha que lhe estiver mais próxima;
+   4. **Linha Descontínua de Aviso** - É constituida por traços de largura normal co intervalos curtos, com o mesmo significado que a [marca 2](/ "Linha Descontinua") e indica a aproximação de uma linha contínua ou de uma passagem estreita;
+   5. **Linhas de Sentido Reversível** - São linhas delimitadoras de vias de trânsito com sentido reversível, constituidas por duas linhas descontínuas adjacentes e destinam-se a delimitar, de ambos os lados, as vias nas quais o sentido de trânsito pode ser alterado através de outros meios de sinalização;
+   6. **Linha Descontínua de Abrandamento ou Aceleração** - É constituida por traços largos, com o mesmo significado que a [marca 2](/ "Linha Descontinua") e delimita uma via de trânsito em que se pratica uma velocidade diferente;
+   7. **Linha Contínua e Descontínua (BUS)** - São constituidas por linhas largas contínuas ou descontínuas, delimitando uma via de trânsito e com o mesmo significado que as [marcas 1 e 2](/ "Linha Continua e Descontinua"), respectivamente estas marcas destinam-se a identificar aquela via de trânsito como corredor de circulação para veículos de transporte público;
+   8. **Duas Linhas Adjacentes** - São excepcionalmente utilizadas na proximidade de locais que ofereçam particular perigo para a circulação, designadamente, lombas, cruzamentos, entrocamentos e locais de visibilidade reduzida e têm o mesmo significado que a [marca 1](/ "Linha Continua");
 
 c. **Sinais Luminosos**;
 
-d. **Sinalização Temporária**;
+1. A energia da sinalização luminosa deve ser independente e autónoma da rede de iluminação pública;
+2. As luzes no semáforo são:
+
+   1. **Verde** - Passagem autorizada;
+   2. **Amarela** - Transição da luz *verde* para *vermelha* impondo atenção e prudência ao condutor;
+   3. **Vermelha** - Passagem proibida ou paragem obrigatória;
+
+d. **Sinalização Temporária** - Destina-se a alertar aos utentes da existência de obras ou obstáculos ocasionais na via pública e consequentemente transmitir obrigações, restrições e proibições especiais que temporariamente lhes são impostas;
+
+- A sinalização temporária compreende os seguintes sinais:
+
+1. **Sinais de aproximação** - São usados na existência de obras e obstáculos ocasionais na via pública e compreende:
+
+   1. A *pré-sinalização*;
+   2. A *sinalização avançada*;
+   3. A *sinalização intermédia*;
+
+2. **Sinalização de posição**;
+3. **Sinalização final** - É usado para transmitir o regresso as condições normais de circulação na via pública;
 
 e. **Sinais dos Agentes Reguladores**;
 
-f. **Sinais dos Condutores**;
+1. Gestuais;
+2. Sonoros;
+
+- **OBS: As ordens dos agentes são de Parar e Avançar.**
+
+f. **Sinais dos Condutores** - Dividem-se em:
+
+1. **Sinais Sonoros** - Devem ser breves e são proibidos como forma de chamamento, protesto ou manifestação de alegria;
+
+   - Só é permitida a utilização de sinais sonoros:
+      1. Em caso de perigo iminente;
+      2. Fora das localidades, para advertir um condutor sobre a intenção de o ultrapassar e igualmente em curvas, cruzamentos, entrocamentos e lombas de visibilidade reduzida;
+
+2. **Sinais Luminosos** - Sempre que a visibilidade for insuficiente e os veículos transitem fora das localidades com as luzes acesas, os sinais sonoros podem ser substituídos por sinais luminosos, nas seguintes condições:
+
+   1. Em locais bem iluminados, pela utilização intermitente das luzes;
+   2. Nos restantes casos, alternando os máximos com os médios, mas sempre sem provocar encadeamento;
+
+3. **Sinais Gestuais** - Comprreende os seguintes gestos:
+
+   1. **Indicação de redução de velocidade** - Estende-se o braço esquerdo(*), com a palma da mão virada para baixo, fazendo oscilar lentamente e repetidas vezes de cima para baixo;
+   2. **Indicação de paragem** - Estende-se horizontalmente o braço esquerdo(*), com a palma da mão virada para trás;
+   3. **Indicação para mudar de direcção à esquerda** - Estende-se horizontalmente o braço esquerdo(*), com a palma da mão virada para frente;
+   4. **Indicação para mudar de direcção à direita** - Estende-se horizontalmente o braço esquerdo(*) e faz-se oscilar verticalmente e de forma repetida, de cima para baixo, com a palma da mão virada para a direita;
+   5. **Indicação para se ser ultrapassado** - Estende-se o braço esquerdo(*) na horizontal, inclinando-o para o solo virando a palma da mão para frente;
+   6. **Indicação para mudar de direcção à direita ao agente regulador** - Estende-se o braço direito na horizontal, dentro do veículo, com a palma da mão virada para frente;
+
+`(*) - condução angolana, onde o volante se encontra no lado esquerdo do automóvel e este transita no lado direito da via!`
 
 São três os elementos que constituem o Sistema de Circulação Rodoviária:
 
@@ -182,12 +214,19 @@ Entende-se por **tráfego**, o conjunto de veículos (de mercadorias e passageir
 
 Quanto as vias, elas classificam-se em:
 
-1. **Via Pública**:
-   - É uma via de comunicação terrestre apta ao trânsito público;
+1. **Via Pública** - É uma via de comunicação terrestre apta ao trânsito público;
 
-2. **Via Equiparada a Pública**:
-   - É uma via de comunicação terrestre do domínio privado aberta ao trânsito público;
-   - Estão sub-divididas
+   - Está categoricamente classificada por:
+
+      1. **Caminho** - Via de comunicação terrestre destinada ao trânsito local em zonas rurais;
+      2. **Rua** - Via de comunicação terrestre destinada ao trânsito de veículos, peões e animais em zonas urbanas;
+      3. **Estradas** - Via de comunicação terrestre destinada ao trânsito de veículos fora das localidades;
+      4. **auto-Estrada** - Via pública destinada ao trânsito rápido com separação fixa de faixas de rodagem, sem cruzamento de nível nem acesso à propriedades marginais, com acessos condicionados e sinalizados como tal;
+
+2. **Via Equiparada a Pública** - É uma via de comunicação terrestre do domínio privado aberta ao trânsito público e está sub-dividida em:
+
+   1. **Estradas Nacionais** - Vias de comunicação terrestre que estabelece a ligação entre a rede nacional e os principais centros;
+   2. **Estradas Municipais** - Vias de comunicação terrestre que assegura as ligações a nível municipal;
 
 São conhecidas como `Unidades Reguladoras do Trânsito`, a:
 
