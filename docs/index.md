@@ -221,12 +221,58 @@ Quanto as vias, elas classificam-se em:
       1. **Caminho** - Via de comunicação terrestre destinada ao trânsito local em zonas rurais;
       2. **Rua** - Via de comunicação terrestre destinada ao trânsito de veículos, peões e animais em zonas urbanas;
       3. **Estradas** - Via de comunicação terrestre destinada ao trânsito de veículos fora das localidades;
-      4. **auto-Estrada** - Via pública destinada ao trânsito rápido com separação fixa de faixas de rodagem, sem cruzamento de nível nem acesso à propriedades marginais, com acessos condicionados e sinalizados como tal;
+      4. **Auto-Estradas** - Via pública destinada ao trânsito rápido com separação fixa de faixas de rodagem, sem cruzamento de nível nem acesso à propriedades marginais, com acessos condicionados e sinalizados como tal;
+
+   - Nelas encontramos os seguintes componentes:
+
+      1. **Faixa de Rodagem** - Parte da via destinada ao trânsito de veículos;
+      2. **Eixo da Faixa de Rodagem** - Linha longitudinal contínua ou descontínua, materializada ou não, que divide a faixa de rodagem em duas partes, cada uma afecta a um sentido de trânsito;
+      3. **Berma** - Superfície da via não especialmente destinada ao trânsito de veículos e que ladeia a faixa de rodagem;
+      4. **Lancil** - É um elemento de betão calçado ou qualquer outro material que é construido ao longo da faixa de rodagem e sobrelevado em relação a esta;
+      5. **Passeio** - Superfície da via em geral, que ladeia a faixa de rodagem sobrelevadamente e especialmente é destinado ao trânsito de peões;
+      6. **Serventia** - É o acesso da estrada a qualquer terreno marginal;
+      7. **Guardas** - São dispositivos colocados ao longo das estradas e permitem que os veículos não se despistem;
 
 2. **Via Equiparada a Pública** - É uma via de comunicação terrestre do domínio privado aberta ao trânsito público e está sub-dividida em:
 
    1. **Estradas Nacionais** - Vias de comunicação terrestre que estabelece a ligação entre a rede nacional e os principais centros;
    2. **Estradas Municipais** - Vias de comunicação terrestre que assegura as ligações a nível municipal;
+
+Os **veículos** são artefactos com ou sem motor que se destinam ao transporte de mercadorias ou pessoas, classificam-se em:
+
+1. **Automóveis** - São veículos com motor de propulsão dotado de pelo menos quatro rodas, tara superior a 550kg, cuja velocidade máxima é, por construção, superior a 25km/h e que se destina por função, transitar na via pública, sem sujeição a carris;
+
+   1. **Automóvel Ligeiro** - É o veículo com peso bruto igual ou inferior à 3500kg e com lotação não superior a 9 lugares, incluindo o condutor;
+   2. **Automóvel Pesado** - É o veículo com peso bruto superior a 3500kg e com uma lotação superior à 9 lugares, incluindo o condutor;
+
+   - Quanto a sua utilização os automóveis classificam-se em:
+     - De **Passageiros**;
+     - De **Mercadorias**;
+     - **Mistos** - Veículos que se destinam ao transporte alternado ou simultâneo de pessoas e cargas;
+     - **Tractores** - Veículos construídos para desenvolver um esforço de tracção, sem comportar carga útil;
+     - **Especiais** - Veículos destinados ao desempenho de uma função específica, diferente do habitual;
+
+2. **Não Automóveis** - Estes sao os veículos com disposição contrária aos *automoveis* e estão subdivididos em:
+
+   1. **Velocípede** - É um veículo dom duas ou mais rodas, accionado pelo esforço do próprio condutor por meio de pedais ou dispositivos análogos;
+   2. **Motociclo** - É um veículo dotado de duas ou três rodas e com motor de propulsão com cilindrada superior a 50cm (cúbicos) ou que por construção exceda a velocidade de 45km/h;
+   3. **Ciclomotor** - É o veículo dotado de duas ou três rodas com um motor de propulsão com cilindrada não superior a 50cm (cúbicos) e velocidade máxima em patamar e por construção que não exceda os 45km/h;
+   4. **Quadriciclo** - É um veículo dotado de quatro rodas e pode ser englobado na classe dos motociclos ou ciclomotores de acordo com as suas características;
+   5. **Reboque** - É um veículo destinado a transitar atrelado à um veículo a motor;
+   6. **Semi-Reboque** - É um veículo destinado a transitar atrelado à um veículo a motor, assentado a parte de frente e distribuindo  o peso sobre este;
+
+3. **Outros Veículos a Motor**
+
+   1. **Veículos sobre Carris** - É aquele que independente do sistema de propulsão, se desloca sobre carris;
+   2. **Tractor Agrícola ou Florestal** - É um veículo com motor de propulsão de dois ou mais eixos, construído para desenvolver esforços de tracção eventualmente equipados com alfaias ou máquinas, destinado predominantemente a trabalhos agrícolas ou florestais;
+   3. **Veículo Único** - É um automóvel pesado, composto por dois segmentos rígidos permanentemente ligados por uma secção articulada que permite a comunicação entre ambos;
+   4. **Comboio Turístico** - É um comboio construído por um tractor e um ou mais reboques destinados ao transporte de passageiros em pequenos percursos com fins turísticos ou de diversão;
+   5. **Conjunto de veículos** - É um grupo formado por um veículo tractor e seu reboque ou semi-reboque;
+
+- Os veículo devem compor a altura máxima de 4 metros apartir do solo até a extremidade da carga;
+- E um comprimento máximo de:
+  - 12 metros - Veículos de dois ou mais eixos;
+  - 16.5 metros - ;
 
 São conhecidas como `Unidades Reguladoras do Trânsito`, a:
 
@@ -272,8 +318,8 @@ Um automóvel está constituido por:
 
 ## Pontos a Ponderar Sobre o Código de Estrada
 
-- Foi aprovado internacionalmente no dia **17 de Setembro de 1949 em Genebra (Suiça)** e foram admitidos 134 sinais, subdivididos em quatro grupos: **perigo, proibição, obrigação e informação**;
-- Foi aprovado em Angola no dia 20 de Maio de 1954 pelo **decreto lei 39.672/54** que regula genericamente o trânsito;
+- Foi aprovado internacionalmente no dia **17 de Setembro de 1949 em Genebra (Suiça)** e foram admitidos **134 sinais**, subdivididos em quatro grupos: **perigo, proibição, obrigação e informação**;
+- Foi aprovado em Angola no dia **20 de Maio de 1954** pelo **decreto lei 39.672/54** que regula genericamente o trânsito;
 - Foi revogado em Angola no dia **29 de Setembro de 2008** pelo **decreto lei 05/08** e entrou em vigor a **01 de Abril de 2009**;
 - O código de estrada angolano contém **178 artigos**;
 
