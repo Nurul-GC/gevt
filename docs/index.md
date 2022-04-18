@@ -64,6 +64,11 @@ b. **Marcas Rodoviarias** - Destinam-se a regular a circulação a advertir e or
    6. **Linha Descontínua de Abrandamento ou Aceleração** - É constituida por traços largos, com o mesmo significado que a [marca 2](/ "Linha Descontinua") e delimita uma via de trânsito em que se pratica uma velocidade diferente;
    7. **Linha Contínua e Descontínua (BUS)** - São constituidas por linhas largas contínuas ou descontínuas, delimitando uma via de trânsito e com o mesmo significado que as [marcas 1 e 2](/ "Linha Continua e Descontinua"), respectivamente estas marcas destinam-se a identificar aquela via de trânsito como corredor de circulação para veículos de transporte público;
    8. **Duas Linhas Adjacentes** - São excepcionalmente utilizadas na proximidade de locais que ofereçam particular perigo para a circulação, designadamente, lombas, cruzamentos, entrocamentos e locais de visibilidade reduzida e têm o mesmo significado que a [marca 1](/ "Linha Continua");
+   9. **Marcas Transversais** - São linhas apostas no sentido da largura das faixas de rodagem e que podem ser completadas por símbolos ou inscrições, são elas:
+      1.  **Linha de Paragem (STOP)** - Consiste numa linha transversal contínua e indica o local de paragem obrigatória imposta por outro meio de sinalização, esta linha pode ser reforçada pela inscrição `STOP` no pavimento quando a paragem seja imposta por sinalização vertical;
+      2.  **Linha de Cedência de Passagem (com ou sem símbolo triangular)** - Consiste numa linha transversal descontínua e indica o local da eventual paragem quando a sinalização vertical imponha ao condutor a cedência de passagem, esta linha pode ser reforçada pela marca no pavimento de símbolo triangular com base paralela a linha;
+      3.  **Passagem para Ciclistas** - É constituida por quadrados ou paralelogramos e indica o local por onde os ciclistas devem fazer a travessia da faixa de rodagem;
+      4.  **Passagem para Peões** - É caracterizada por barras longitudinais paralelas ao eixo da via alternadas por intervalos
 
 c. **Sinais Luminosos**;
 
