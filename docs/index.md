@@ -284,7 +284,7 @@ Quanto as vias, elas classificam-se em:
    1. **Estradas Nacionais** - Vias de comunicação terrestre que estabelece a ligação entre a rede nacional e os principais centros;
    2. **Estradas Municipais** - Vias de comunicação terrestre que assegura as ligações a nível municipal;
 
-Os **veículos** são artefactos com ou sem motor que se destinam ao transporte de mercadorias ou pessoas, classificam-se em:
+Os **veículos** são artefactos com ou sem tracção mecânica que se destinam ao transporte de mercadorias ou pessoas, classificam-se em:
 
 1. **Automóveis** - São veículos com motor de propulsão dotado de pelo menos quatro rodas, tara superior a 550kg, cuja velocidade máxima é, por construção, superior a 25km/h e que se destina por função, transitar na via pública, sem sujeição a carris;
 
