@@ -65,10 +65,40 @@ b. **Marcas Rodoviarias** - Destinam-se a regular a circulação a advertir e or
    7. **Linha Contínua e Descontínua (BUS)** - São constituidas por linhas largas contínuas ou descontínuas, delimitando uma via de trânsito e com o mesmo significado que as [marcas 1 e 2](/ "Linha Continua e Descontinua"), respectivamente estas marcas destinam-se a identificar aquela via de trânsito como corredor de circulação para veículos de transporte público;
    8. **Duas Linhas Adjacentes** - São excepcionalmente utilizadas na proximidade de locais que ofereçam particular perigo para a circulação, designadamente, lombas, cruzamentos, entrocamentos e locais de visibilidade reduzida e têm o mesmo significado que a [marca 1](/ "Linha Continua");
    9. **Marcas Transversais** - São linhas apostas no sentido da largura das faixas de rodagem e que podem ser completadas por símbolos ou inscrições, são elas:
-      1.  **Linha de Paragem (STOP)** - Consiste numa linha transversal contínua e indica o local de paragem obrigatória imposta por outro meio de sinalização, esta linha pode ser reforçada pela inscrição `STOP` no pavimento quando a paragem seja imposta por sinalização vertical;
-      2.  **Linha de Cedência de Passagem (com ou sem símbolo triangular)** - Consiste numa linha transversal descontínua e indica o local da eventual paragem quando a sinalização vertical imponha ao condutor a cedência de passagem, esta linha pode ser reforçada pela marca no pavimento de símbolo triangular com base paralela a linha;
-      3.  **Passagem para Ciclistas** - É constituida por quadrados ou paralelogramos e indica o local por onde os ciclistas devem fazer a travessia da faixa de rodagem;
-      4.  **Passagem para Peões** - É caracterizada por barras longitudinais paralelas ao eixo da via alternadas por intervalos
+      1. **Linha de Paragem (STOP)** - Consiste numa linha transversal contínua e indica o local de paragem obrigatória imposta por outro meio de sinalização, esta linha pode ser reforçada pela inscrição `STOP` no pavimento quando a paragem seja imposta por sinalização vertical;
+      2. **Linha de Cedência de Passagem (com ou sem símbolo triangular)** - Consiste numa linha transversal descontínua e indica o local da eventual paragem quando a sinalização vertical imponha ao condutor a cedência de passagem, esta linha pode ser reforçada pela marca no pavimento de símbolo triangular com base paralela a linha;
+      3. **Passagem para Ciclistas** - É constituida por quadrados ou paralelogramos e indica o local por onde os ciclistas devem fazer a travessia da faixa de rodagem;
+      4. **Passagem para Peões** - É caracterizada por barras longitudinais paralelas ao eixo da via alternadas por intervalos regulares ou por duas linhas transversais contínuas e indica o local por onde os peões devem fazer a travessia da faixa de rodagem;
+        - Caso o local disposto para travessia de peões não esteja regulado por sinalização luminosa (semáforo), utilizar-se-á as barras longitudinais paralelas ao eixo da via envez das linhas transversais contínuas;
+   10. **Marcas Reguladoras de Paragem e Estacionamento** - Para regular o estacionamento e a paragem ao longo da faixa de rodagem podem ser utilizadas marcas de cor amarela e estão subdivididas em:
+       1. **Linha Contínua Amarela** - Linha contínua junto ao limite da faixa de rodagem elinha sobre o bordo do passeio, indicam que é proibido parar ou estacionar daquele lado da faixa de rodagem e em toda extensão dessa linha;
+           - A proibição imposta por essa marca pode também limitar-se no tempo ou a determinada espécie de veículos, de acordo com as indicações constantes da sinalização vertical;
+       2. **Linha Descontínua Amarela** - Linha descontínua junto ao limite da faixa de rodagem e linha descontínua sobre o bordo do passeio, indicam que é proibido estacionar daquele lado da faixa de rodagem e em toda extensão dessa linha;
+           - A proibição imposta por essa marca pode também limitar-se no tempo ou a determinada espécie de veículos, de acordo com as indicações constantes da sinalização vertical;
+       3. **Linha em Zigue-Zague (de cor amarela)** - Significa a proibição de estacionar do lado da faixa de rodagem delimitada e em toda extensão da mesma;
+       4. **Linhas de Estacionamento para Cargas e Descargas** - Área constituida e delimitada por linhas contínuas de cor amarela, significam a proibição de paragem e estacionamento na área demarcada, excepto para efetuar operações de carga e descarga;
+       5. **Marcas Delimitadoras de Estacionamento** - Servem para delimitar os lugares destinados ao estacionamento de veículos, podem ser utilizadas linhas contínuas ou descontínuas de cor branca, paralelas, perpendiculares ou oblíquas ao eixo da via e definindo espaços com a forma de rectângulo ou paralelogramo;
+   11. **Marcas Orientadoras do Sentido de Trânsito** - Estão subdivididas em:
+       1. **Setas de Selecção** - Utilizam-se para orientar os sentidos de trânsito na proximidade de cruzamentos e entrocamentos e significam, quando dispostas em vias de trânsito delimitadas por linhas contínuas, a obrigatoriedade de seguir no sentido ou num dos sentidos por ela apontados;
+           - Estas setas podem ser antecipadas de outras com igual configuração e com função de pré-aviso, as quais podem conter a indicação de via sem saida;
+       2. **Setas de Desvio** - São de orientação oblíqua ao eixo da via, indicando a conveniência de passar para a via de trânsito que elas apontam ou mesmo, a obrigatoriedade de o fazer em consequência de outra sinalização;
+   12. **Marcas Diversas e Guias** - Para fornecer determinadas indicações ou repetir as já dadas por outros meios de sinalização podem ser utilizadas as seguintes marcas:
+       1. **Raias Oblíquas**
+           - Delimitadas por uma linha contínua significam a proibição de entrar na área por elas abrangidas;
+           - Delimitadas por uma linha descontínua significam a proibição de estacionar e entrar na área por elas abrangidas, a não ser para a realização de manobras que não apresentem perigo;
+       2. **Caixa Amarela** - Cruzamento ou entrocamento facilmente congestionável, área constituida e delimitada porlinhas contínuas de cor amarela, definindo a intersecção das vias nos cruzamentos e entrocamentos, significa proibição de entrar na área demarcada mesmo que o direito da prioridade ou a sinalização automática autorize a avançar, se for previsível que a intensidade do trânsito obrigue à imobilização do veículo dentro daquela área;
+       3. **Listras Alternadas (de cor amarela e preta)** - Indicam a presença de obstáculos ou construções que possam constituir perigo;
+       4. **Guias** - Utilizam-se para delimitar visivelmente a faixa de rodagem, podendo ser utilizadas junto dos bordos da mesma e são constituidas por linhas que não são consideradas marcas longitudinais;
+       5. **Bandas Cromáticas** - Alertam para a necessidade de praticar velocidades mais reduzidas em determinados locais, consistindo numa sequência de pares de linhas transversais contínuas com espaçamentos degressivos;
+       6. **Marcas de Segurança** - Recomendam a distância de segurança a observar para afastamento em relação ao veículo precedente, são marcas equidistantes de cor amarela, representadas em `V` com o vértice apontado no sentido da marcha;
+       7. **Inscrições no Pavimento** - Podem utilizar-se inscrições no pavimento para transmitir aos utentes indicações úteis, complementando a sinalização vertical;
+           - Os caracteres e símbolos utilizados nestas inscrições devem ser alongados por forma a serem legíveis pelos condutores a que se destinam;
+   13. **Dispositovs Retrorrefletores Complementares** - Estão subdivididos em:
+       1. **Marcadores** - Dispositivos aplicados sobre o pavimento que permitem reforçar a visibilidade das marcas durante a noite ou em condições de visibilidade reduzida;
+           - Os marcadores devem ser de cor branca, salvo quando utilizados em sinalização temporária, caso em que devem ser de cor amarela;
+           - Quando utilizados na delimitação de vias de acesso a portagem, caso em que devem ser de cor verde;
+       2. **Delineadores** - Dispositivos apoiados no solo ou em equipamentos de segurança, colocados no limite exterior da berma ou do lado esquerdo da faixa de rodagem nos casos em que exista separador central que permitem identificar facilmente aqueles limites durante a noite ou em condições de visibilidade insuficiente;
+           - Os delineadores devem ser de cor branca, salvo os colocados do lado esquerdo em faixas de rodagem com um só sentido de trânsito, que devem ser de cor amarela;
 
 c. **Sinais Luminosos**;
 
@@ -123,9 +153,20 @@ f. **Sinais dos Condutores** - Dividem-se em:
 
 `(*) - condução angolana, onde o volante se encontra no lado esquerdo do automóvel e este transita no lado direito da via!`
 
+```txt
+A Sinalização Rodoviária esta disposta na seguinte hierarquia prioritária:
+
+   1. Sinais dos Agentes Reguladores;
+   2. Sinalização Temporária;
+   3. Sinalização Luminosa;
+   4. Sinalização Vertical;
+   5. Marcas Rodoviárias;
+   6. Sinais dos Condutores;
+```
+
 São três os elementos que constituem o Sistema de Circulação Rodoviária:
 
-1. **O Homem**:
+1. **O Homem**: 
    - É o elemento preponderante deste sistema, desempenhando fundamentalmente os papeis de condutor e peão;
 
 2. **O Veículo**:
