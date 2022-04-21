@@ -96,7 +96,7 @@ b. **Marcas Rodoviarias** - Destinam-se a regular a circulação a advertir e or
    13. **Dispositovs Retrorrefletores Complementares** - Estão subdivididos em:
        1. **Marcadores** - Dispositivos aplicados sobre o pavimento que permitem reforçar a visibilidade das marcas durante a noite ou em condições de visibilidade reduzida;
            - Os marcadores devem ser de cor branca, salvo quando utilizados em sinalização temporária, caso em que devem ser de cor amarela;
-           - Quando utilizados na delimitação de vias de acesso a portagem, caso em que devem ser de cor verde;
+           - Devem ser de cor verde quando utilizados na delimitação de vias de acesso a portagem;
        2. **Delineadores** - Dispositivos apoiados no solo ou em equipamentos de segurança, colocados no limite exterior da berma ou do lado esquerdo da faixa de rodagem nos casos em que exista separador central que permitem identificar facilmente aqueles limites durante a noite ou em condições de visibilidade insuficiente;
            - Os delineadores devem ser de cor branca, salvo os colocados do lado esquerdo em faixas de rodagem com um só sentido de trânsito, que devem ser de cor amarela;
 
@@ -119,15 +119,15 @@ d. **Sinalização Temporária** - Destina-se a alertar aos utentes da existênc
    2. A *sinalização avançada*;
    3. A *sinalização intermédia*;
 
-2. **Sinalização de posição**;
-3. **Sinalização final** - É usado para transmitir o regresso as condições normais de circulação na via pública;
+2. **Sinalização de posição** - Sempre que existam obras e obstáculos ocasionais na via pública deve-se utiliza-los, pois ela irá delimitar convenientemente o obstáculo ou zona de obras bem como as suas imediações por forma bem definida nas direcções paralelas e perpendiculares ao eixo da faixa de rodagem e compreende todos os dispositivos complementares que completam a sinalização temporária;
+3. **Sinalização final** - É usado para transmitir o regresso as condições normais de circulação na via pública e deve-se usar a sinalização final cuja materialização deve ser feita com recurso ao sinal de fim de todas as proibições anteriormente impostas e fim de obras na via;
 
 e. **Sinais dos Agentes Reguladores**;
 
 1. Gestuais;
 2. Sonoros;
 
-- **OBS: As ordens dos agentes são de Parar e Avançar.**
+- **OBS: As ordens dos agentes reguladores são de Parar e Avançar.**
 
 f. **Sinais dos Condutores** - Dividem-se em:
 
@@ -153,20 +153,19 @@ f. **Sinais dos Condutores** - Dividem-se em:
 
 `(*) - condução angolana, onde o volante se encontra no lado esquerdo do automóvel e este transita no lado direito da via!`
 
-```txt
-A Sinalização Rodoviária esta disposta na seguinte hierarquia prioritária:
+      A Sinalização Rodoviária esta disposta na seguinte hierarquia prioritária:
 
-   1. Sinais dos Agentes Reguladores;
-   2. Sinalização Temporária;
-   3. Sinalização Luminosa;
-   4. Sinalização Vertical;
-   5. Marcas Rodoviárias;
-   6. Sinais dos Condutores;
-```
+         1. Sinais dos Agentes Reguladores;
+         2. Sinalização Temporária;
+         3. Sinalização Luminosa;
+         4. Sinalização Vertical;
+         5. Marcas Rodoviárias;
+         6. Sinais dos Condutores;
+
 
 São três os elementos que constituem o Sistema de Circulação Rodoviária:
 
-1. **O Homem**: 
+1. **O Homem**:
    - É o elemento preponderante deste sistema, desempenhando fundamentalmente os papeis de condutor e peão;
 
 2. **O Veículo**:
@@ -262,19 +261,19 @@ Quanto as vias, elas classificam-se em:
 
 1. **Via Pública** - É uma via de comunicação terrestre apta ao trânsito público;
 
-   - Está categoricamente classificada por:
+   - Está **categoricamente classificada** por:
 
       1. **Caminho** - Via de comunicação terrestre destinada ao trânsito local em zonas rurais;
       2. **Rua** - Via de comunicação terrestre destinada ao trânsito de veículos, peões e animais em zonas urbanas;
       3. **Estradas** - Via de comunicação terrestre destinada ao trânsito de veículos fora das localidades;
-      4. **Auto-Estradas** - Via pública destinada ao trânsito rápido com separação fixa de faixas de rodagem, sem cruzamento de nível nem acesso à propriedades marginais, com acessos condicionados e sinalizados como tal;
+      4. **Auto-Estradas** - Via pública destinada ao trânsito rápido com separação física de faixas de rodagem, sem cruzamento de nível nem acesso à propriedades marginais, com acessos condicionados e sinalizados como tal;
 
-   - Nelas encontramos os seguintes componentes:
+   - Nelas encontramos os seguintes **componentes**:
 
       1. **Faixa de Rodagem** - Parte da via destinada ao trânsito de veículos;
       2. **Eixo da Faixa de Rodagem** - Linha longitudinal contínua ou descontínua, materializada ou não, que divide a faixa de rodagem em duas partes, cada uma afecta a um sentido de trânsito;
       3. **Berma** - Superfície da via não especialmente destinada ao trânsito de veículos e que ladeia a faixa de rodagem;
-      4. **Lancil** - É um elemento de betão calçado ou qualquer outro material que é construido ao longo da faixa de rodagem e sobrelevado em relação a esta;
+      4. **Lancil** - É um elemento contínua de betão calçado ou qualquer outro material que é construido ao longo da faixa de rodagem e sobrelevado em relação a esta;
       5. **Passeio** - Superfície da via em geral, que ladeia a faixa de rodagem sobrelevadamente e especialmente é destinado ao trânsito de peões;
       6. **Serventia** - É o acesso da estrada a qualquer terreno marginal;
       7. **Guardas** - São dispositivos colocados ao longo das estradas e permitem que os veículos não se despistem;
@@ -316,9 +315,15 @@ Os **veículos** são artefactos com ou sem tracção mecânica que se destinam 
    5. **Conjunto de veículos** - É um grupo formado por um veículo tractor e seu reboque ou semi-reboque;
 
 - Os veículo devem compor a altura máxima de 4 metros apartir do solo até a extremidade da carga;
-- E um comprimento máximo de:
+- Um comprimento máximo de:
   - 12 metros - Veículos de dois ou mais eixos;
-  - 16.5 metros - ;
+  - 16.5 metros - Veículos tractor com semi-reboque de três ou mais eixos;
+  - 18.75 metros - Conjunto de veículos a motor com reboque;
+  - 18 metros - Veículo de transporte público de passageiros (autocarro);
+  - 12 metros - Reboque de um ou mais eixos;
+  - 7 metros - Reboque agrícola de um eixo;
+  - 10 metros - Reboque agrícola de dois ou mais eixos;
+- E a largura máxima de 2.55 metros para qualquer veículo e 2,60 metros para veículos de transportes condicionados;
 
 São conhecidas como `Unidades Reguladoras do Trânsito`, a:
 
@@ -327,6 +332,11 @@ São conhecidas como `Unidades Reguladoras do Trânsito`, a:
 
 2. **Policia de Trânsito Provincial**:
    - Que fiscaliza o trânsito urbano;
+
+Conceitos Complementares:
+
+- Denomina-se **Percurso a vista**, quando numa passagem estreita é possivel ver o trânsito que vem em sentido oposto numa distância considerável, antes de se ter entrado na parte estreita;
+- Denomina-se **Paragem**, a imobilização de um veículo pelo tempo estritamente necessário para entrada ou saída de passageiros
 
 ## - Introdução à Mecânica dos Veículos
 
