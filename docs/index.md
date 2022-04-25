@@ -53,6 +53,8 @@
 
 #### a. **Sinais Verticais**
 
+- Placas sustentadas por uma âste ou suporte e estão divididos em:
+
 1. **Sinais de Perigo**
    - Indicam a existência ou a possibilidade de aparecimento de condições particularmente perigosas para o trânsito e imponhem especial atenção e prudência ao condutor;
 
