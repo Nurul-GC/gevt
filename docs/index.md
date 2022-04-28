@@ -410,7 +410,7 @@ Para aplicação das Funções de Condução é necessário que se tenha em cont
 
 ### Já um **Motorista**?
 
-- É a pessoa que faz da licença de condução a sua profissão.
+- É a pessoa que faz da carta de condução a sua profissão.
 
 ### Quem é o **Passageiro**?
 
