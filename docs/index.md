@@ -20,7 +20,7 @@
   - [Já um **Motorista**?](#já-um-motorista)
   - [Quem é o **Passageiro**?](#quem-é-o-passageiro)
   - [Quem é o **Peão**?](#quem-é-o-peão)
-  - [O que é a **Carta de Condução**?](#o-que-é-a-carta-de-condução)
+  - [A diferença entre uma **Carta de Condução** e uma **Licença de Condução**](#a-diferença-entre-uma-carta-de-condução-e-uma-licença-de-condução)
   - [O que é o **Trânsito**?](#o-que-é-o-trânsito)
   - [Entende-se por **Tráfego**](#entende-se-por-tráfego)
   - [Quanto as **Vias**](#quanto-as-vias)
@@ -120,7 +120,7 @@
 - Destinam-se a regular a circulação a advertir e orientar os utentes das vias públicas, podendo ser completadas com outros meios de sinalização e subdividem-se em:
 
 1. **Marcas Longitudinais**
-   - são marcas postas na faixa de rodagem separando sentidos ou vias de trânsito, estão sub-divididas por:
+   - São linhas postas na faixa de rodagem separando sentidos ou vias de trânsito, estão sub-divididas por:
 
       1. **Linha Contínua**
          - Significa para o condutor proibição de a pisar ou transpor e o dever de transitar à sua direita, quando aquela fizer a separação de sentidos de trânsito;
@@ -132,7 +132,7 @@
          - Constituida por uma linha contínua adjacente e outra descontínua, tem para o condutor o significado consoante a linha que lhe estiver mais próxima;
 
       4. **Linha Descontínua de Aviso**
-         - É constituida por traços de largura normal co intervalos curtos, com o mesmo significado que a [marca 2](/ "Linha Descontinua") e indica a aproximação de uma linha contínua ou de uma passagem estreita;
+         - É constituida por traços de largura normal com intervalos curtos, com o mesmo significado que a [marca 2](/ "Linha Descontinua") e indica a aproximação de uma linha contínua ou de uma passagem estreita;
 
       5. **Linhas de Sentido Reversível**
          - São linhas delimitadoras de vias de trânsito com sentido reversível, constituidas por duas linhas descontínuas adjacentes e destinam-se a delimitar, de ambos os lados, as vias nas quais o sentido de trânsito pode ser alterado através de outros meios de sinalização;
@@ -143,7 +143,7 @@
       7. **Linha Contínua e Descontínua (BUS)**
          - São constituidas por linhas largas contínuas ou descontínuas, delimitando uma via de trânsito e com o mesmo significado que as [marcas 1 e 2](/ "Linha Continua e Descontinua"), respectivamente estas marcas destinam-se a identificar aquela via de trânsito como corredor de circulação para veículos de transporte público;
 
-      8. **Duas Linhas Adjacentes**
+      8. **Duas Linhas Adjacentes (linhas gerais)**
          - São excepcionalmente utilizadas na proximidade de locais que ofereçam particular perigo para a circulação, designadamente, lombas, cruzamentos, entrocamentos e locais de visibilidade reduzida e têm o mesmo significado que a [marca 1](/ "Linha Continua");
 
 2. **Marcas Transversais**
@@ -169,7 +169,7 @@
    - Para regular o estacionamento e a paragem ao longo da faixa de rodagem podem ser utilizadas marcas de cor amarela e estão subdivididas em:
 
       1. **Linha Contínua Amarela**
-         - Linha contínua junto ao limite da faixa de rodagem elinha sobre o bordo do passeio, indicam que é proibido parar ou estacionar daquele lado da faixa de rodagem e em toda extensão dessa linha;
+         - Linha contínua junto ao limite da faixa de rodagem e linha sobre o bordo do passeio, indicam que é proibido parar ou estacionar daquele lado da faixa de rodagem e em toda extensão dessa linha;
 
          ```txt
          - A proibição imposta por essa marca pode também limitar-se no tempo ou a determinada espécie de veículos, de acordo com as indicações constantes da sinalização vertical;
@@ -182,7 +182,7 @@
          - A proibição imposta por essa marca pode também limitar-se no tempo ou a determinada espécie de veículos, de acordo com as indicações constantes da sinalização vertical;
          ```
 
-      3. **Linha em Zigue-Zague (de cor amarela)**
+      3. **Linha em Zigue-Zague de cor amarela (serventina)**
          - Significa a proibição de estacionar do lado da faixa de rodagem delimitada e em toda extensão da mesma;
 
       4. **Linhas de Estacionamento para Cargas e Descargas**
@@ -212,7 +212,7 @@
          - Delimitadas por uma linha descontínua significam a proibição de estacionar e entrar na área por elas abrangidas, a não ser para a realização de manobras que não apresentem perigo;
 
       2. **Caixa Amarela**
-         - Cruzamento ou entrocamento facilmente congestionável, área constituida e delimitada porlinhas contínuas de cor amarela, definindo a intersecção das vias nos cruzamentos e entrocamentos, significa proibição de entrar na área demarcada mesmo que o direito da prioridade ou a sinalização automática autorize a avançar, se for previsível que a intensidade do trânsito obrigue à imobilização do veículo dentro daquela área;
+         - Cruzamento ou entrocamento facilmente congestionável, área constituida e delimitada por linhas contínuas de cor amarela, definindo a intersecção das vias nos cruzamentos e entrocamentos, significa proibição de entrar na área demarcada mesmo que o direito da prioridade ou a sinalização automática autorize a avançar, se for previsível que a intensidade do trânsito obrigue à imobilização do veículo dentro daquela área;
 
       3. **Listras Alternadas (de cor amarela e preta)**
          - Indicam a presença de obstáculos ou construções que possam constituir perigo;
@@ -420,9 +420,10 @@ Para aplicação das Funções de Condução é necessário que se tenha em cont
 
 - É a pessoa que transita a pé na via pública;
 
-### O que é a **Carta de Condução**?
+### A diferença entre uma **Carta de Condução** e uma **Licença de Condução**
 
-- É uma licença passada pela ***direção de trânsito e segurança rodóviaria*** que autoriza os seus titulares a conduzirem veículos de categorias nela indicados;
+- É de que, a licença é um documento passado pelo ***Governo Provincial*** e habilita o seu titular na condução de veículos agrícolas, motociclos e ciclomotores com cilindrada não superior a 50cm cúbicos;
+- E a carta de condução é um documento passado pela ***Direção de Trânsito e Segurança Rodoviária*** que autoriza os seus titulares a conduzirem veículos de categorias nela indicados;
 
 ### O que é o **Trânsito**?
 
@@ -538,8 +539,12 @@ Ao proceder com o exercício da condução, o condutor deve:
 - A **Cedência de Passagem**, é o dever que o condutor tem de abrandar, recuar ou se possível parar a marcha em cruzamento com outros veículos a fim de cedê-los passagem sem alteração de velocidade ou direcção destes;
 - Considera-se **Prioridade**, o direito que o condutor tem de passar em primeiro lugar em intersecções de nível;
 - A **Ultrapassagem**, é a manobra que permite ao condutor da retaguarda tomar a dianteira do veículo precedente desde que transitem na mesma via e no mesmo sentido de marcha;
-- A **Inversão de Marcha**, é a manobra que permte ao condutor passar a transitar na mesma via mas em sentido contrário;
+  - As fases da ultrapassagem denominam-se: **Observação, Advertência, Execução e Retorno**;
+- A **Inversão de Marcha**, é a manobra que permite ao condutor passar a transitar na mesma via mas em sentido contrário;
 - Já a **Marcha Atrás**, é a manobra que permite ao condutor transitar com o veículo em retaguarda da sua marcha normal e só é permitida como manobra auxiliar ou de recurso e deve ser feita lentamente e num menor trajecto possível;
+- A **Manobra de Recurso** é a marcha atrás feita pelo condutor por não ser possível efetuar o cruzamento com outro veículo ou para sair de uma via obstruida;
+- Uma **Manobra Auxiliar** é a marcha atrás feita pelo condutor para inverter o sentido de marcha ou estacionar um veículo em mais de um tempo;
+- A **Mudança de Direcção** é a manobra que permite ao condutor alterar a trajetória de um veículo que segue numa determinada via e muda para a outra posicionada a esquerda ou direita;
 - A **Velocidade**, é a distância percorrida por unidade de tempo e mede-se por *km/h*;
 - A **Velocidade Média**, é a distância percorrida por tempo gasto;
 - A **Velocidade Adequada**, é aquela que não excedendo os limites legais nem sendo lenta, permite ao condutor efetuar qualquer manobra;
@@ -561,6 +566,25 @@ Ao proceder com o exercício da condução, o condutor deve:
 - Já uma **Contra-Curva** é o sentido oposto da curva anterior;
 - Denomina-se **Bermas Baixas** a ausência de passeios;
 - Entende-se por **Passagem de Nível**, a interseção de vias, sendo uma ferroviária e uma rodoviária;
+- Denomina-se **Cais** a fusão entre a parte sólida e liquida;
+- Chamamos **Localidade** a zona com indicações cujos limites são assinalados com os respectivos sinais regulamentadores;
+- Denomina-se **Via Verde** a via indicada numa portagem, reservada aos utentes portadores de documento identificador;
+- **Correntes de Neve**, dispositivos metálicos colocados nas rodas motoras a fim de aumentar a aderência do veículo ao solo;
+- São dois os tipos de ***equipamentos de segurança*** existentes no veículo, nomeadamente:
+  - **Segurança Activa**, é composto por acessórios e componentes do veículo que reduzem a possibilidade de ocorrência de acidentes, exemplo:
+    - **Sistema de Travagem** (*ABS*);
+    - **Sistema de Tracção** (*ARS*);
+    - **Sistema de Estabilidade** (*ESP*);
+  - **Segurança Passiva**, são acessórios e componentes do veículo que protegem os ocupantes dos efeitos de acidentes, exemplo:
+    - **Encosto de Cabeça**;
+    - **AirBag**;
+    - **Cinto de Segurança**;
+- Denomina-se **Carga Útil** a quantidade de pessoas e mercadorias transportadas num veículo;
+- Denomina-se **Peso Bruto** a soma da tara e o máximo de carga que o veículo pode transportar;
+- **Via Reservada** é uma via onde vigoram as normas que disciplinam o trânsito em auto-estradas e sinalizadas como tal;
+- Denomina-se **Escapatória** a zona fora da faixa de rodagem destinada a imobilizaçã de veículos em caso de falha no sistema de travagem;
+- Uma **Via de Sentido Reversível** é uma via onde o sentido de trânsito pode ser alterado a qualquer momento;
+- **Via de Abrandamento** é uma via de trânsito resultante do alargamento da faixa de rodagem, destinada a permitir aos condutores que transitem na via diminuam a velocidade já fora da corrente de trânsito principal;
 
 ## Introdução à **Mecânica dos Veículos**
 
