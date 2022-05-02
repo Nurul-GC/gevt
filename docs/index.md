@@ -266,12 +266,12 @@
 
    1. **Sinais de aproximação**
       - São usados na existência de obras e obstáculos ocasionais na via pública e compreende:
-         1. A *pré-sinalização*;
-         2. A *sinalização avançada*;
-         3. A *sinalização intermédia*;
+         1. A *pré-sinalização*, deve ser efetuada com recurso aos sinais de indicação;
+         2. A *sinalização avançada*, é colocada após a pré-sinalização e é feita com recurso aos sinais de perigo;
+         3. A *sinalização intermédia*, é utilizada sempre que as condições da via ou a natureza das obras e obstáculos imponham o recurso à limitações de velocidade;
 
    2. **Sinalização de posição**
-      - Sempre que existam obras e obstáculos ocasionais na via pública deve-se utiliza-los, pois ela irá delimitar convenientemente o obstáculo ou zona de obras bem como as suas imediações por forma bem definida nas direcções paralelas e perpendiculares ao eixo da faixa de rodagem e compreende todos os dispositivos complementares que completam a sinalização temporária;
+      - Devem ser utilizados sempre que existam obras e obstáculos ocasionais na via pública, pois ela irá delimitar convenientemente o obstáculo ou zona de obras bem como as suas imediações por forma bem definida nas direcções paralelas e perpendiculares ao eixo da faixa de rodagem e compreende todos os dispositivos complementares que completam a sinalização temporária;
 
    3. **Sinalização final**
       - É usado para transmitir o regresso as condições normais de circulação na via pública e deve-se usar a sinalização final cuja materialização deve ser feita com recurso ao sinal de fim de todas as proibições anteriormente impostas e fim de obras na via;
@@ -410,7 +410,7 @@ Para aplicação das Funções de Condução é necessário que se tenha em cont
 
 ### Já um **Motorista**?
 
-- É a pessoa que faz da licença de condução a sua profissão.
+- É a pessoa que faz da carta de condução a sua profissão.
 
 ### Quem é o **Passageiro**?
 
