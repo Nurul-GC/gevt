@@ -574,12 +574,11 @@ Ao proceder com o exercício da condução, o condutor deve:
 
 **Tara**: também conhecido como o peso do veículo em ordem de marcha, isto é, sem ocupação ou carga sobre o mesmo.
 
-
 - Um automóvel está constituido por:
   - **Quadro ou Chassi**;
-     - É a estrutura metálica resistente que suporta vários componentes do automóvel incluindo a caixa.
+    - É a estrutura metálica resistente que suporta vários componentes do automóvel incluindo a caixa.
   - **Caixa ou Carroçaria**;
-     - É a estrutura metálica que define as formas do veículo e separa o **`habitáculo`** do compartimento de bagagem.
+    - É a estrutura metálica que define as formas do veículo e separa o **`habitáculo`** do compartimento de bagagem.
 
 **Habitáculo**: também conhecido como compartimento fechado de um automóvel destinado ao condutor ou aos ocupantes, contendo várias peças de comando e acomodação.
 
