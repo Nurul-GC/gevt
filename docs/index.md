@@ -1,6 +1,6 @@
 <div align="center">
 
-![gevt-favicon](https://github.com/Nurul-GC/gevt/raw/main/docs/img/favicon_io/android-chrome-512x512.png)
+![gevt-favicon](./img/favicon_io/android-chrome-512x512.png)
 
     Breve guia para o curso de condução 
     baseado nas instruções e normas estabelecidas
