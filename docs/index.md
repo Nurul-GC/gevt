@@ -509,7 +509,7 @@ Ao proceder com o exercício da condução, o condutor deve:
      5. **Conjunto de veículos** - É um grupo formado por um veículo tractor e seu reboque ou semi-reboque;
 
 ```txt
-- Os veículo devem compor a altura máxima de 4 metros apartir do solo até a extremidade da carga;
+- Os veículos devem compor a altura máxima de 4 metros apartir do solo até a extremidade da carga;
 - Um comprimento máximo de:
   - 12 metros - Veículos de dois ou mais eixos;
   - 16.5 metros - Veículos tractor com semi-reboque de três ou mais eixos;
@@ -585,6 +585,8 @@ Ao proceder com o exercício da condução, o condutor deve:
 - Denomina-se **Escapatória** a zona fora da faixa de rodagem destinada a imobilizaçã de veículos em caso de falha no sistema de travagem;
 - Uma **Via de Sentido Reversível** é uma via onde o sentido de trânsito pode ser alterado a qualquer momento;
 - **Via de Abrandamento** é uma via de trânsito resultante do alargamento da faixa de rodagem, destinada a permitir aos condutores que transitem na via diminuam a velocidade já fora da corrente de trânsito principal;
+- **Intersecções de Nível** é cruzamento de vias ao mesmo nível e compreende os cruzamentos, entrocamentos, rotundas;
+- **Intersecções Desniveladas** é o cruzamento de vias a nível diferente;
 
 ## Introdução à **Mecânica dos Veículos**
 
