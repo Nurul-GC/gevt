@@ -1,6 +1,12 @@
+<div align="center">
+
+![gevt-favicon](./img/favicon_io/android-chrome-512x512.png)
+
     Breve guia para o curso de condução 
     baseado nas instruções e normas estabelecidas
     pela direcção angolana de viação e trânsito.
+
+</div>
 
 ## Conteúdos
 
@@ -33,21 +39,21 @@
 
 ## Introdução ao **Código de Estrada**
 
-    - O código de estrada é um conjunto de leis ou normas estabelecidas para fiscalizar, ordenar e regular o trânsito nas vias públicas.
+- O código de estrada é um conjunto de leis ou normas estabelecidas para fiscalizar, ordenar e regular o trânsito nas vias públicas.
 
 **Categoricamente, o código de estrada está dividido em três partes, que são:**
 
 ### 1. **Legislações Complementares**
 
-    - É um conjunto de leis ou normas que reforçam e complementam o código de estrada.
+- É um conjunto de leis ou normas que reforçam e complementam o código de estrada.
 
 ### 2. **Regras Gerais**
 
-    - São normas que regulam o comportamento dos condutores, utilizados nas vias públicas.
+- São normas que regulam o comportamento dos condutores, utilizados nas vias públicas.
 
 ### 3. **Sinalização de Trânsito**
 
-    - É o conjunto de mensagens visuais e auditivas de significados convencionais que regulam o trânsito nas vias públicas.
+- É o conjunto de mensagens visuais e auditivas de significados convencionais que regulam o trânsito nas vias públicas.
 
 - A *Sinalização de Trânsito* compreende os seguintes sinais:
 
@@ -106,11 +112,9 @@
 4. **Sinalização de Mensagem Variável**
    - Tem por finalidade melhorar a fluidez da circulação e garantir a segurança dos condutores, designadamente nas seguintes situações:
 
-   ```txt
-   1. Perigo decorrente de uma situação que imponha intervenção urgente;
-   2. Interrupção de acesso ou impedimento de circulação no âmbito de medidas temporárias de condicionamento do trânsito;
-   3. Informações sobre as condições de circulação, designadamente perturbações excepcionais e imprevistas, com o objectivo de as melhorar;
-   ```
+      1. Perigo decorrente de uma situação que imponha intervenção urgente;
+      2. Interrupção de acesso ou impedimento de circulação no âmbito de medidas temporárias de condicionamento do trânsito;
+      3. Informações sobre as condições de circulação, designadamente perturbações excepcionais e imprevistas, com o objectivo de as melhorar;
 
 5. **Sinalização Turistico-Cultural**
    - Destinam-se a transmitir aos utentes indicações sobre locais, imóveis ou conjunto de imóveis e outros motivos que possuam uma especial relevância de âmbito cultural, histórico-patrimonial ou paisagístico;
@@ -161,9 +165,7 @@
       4. **Passagem para Peões**
          - É caracterizada por barras longitudinais paralelas ao eixo da via alternadas por intervalos regulares ou por duas linhas transversais contínuas e indica o local por onde os peões devem fazer a travessia da faixa de rodagem;
 
-         ```txt
-         - Caso o local disposto para travessia de peões não esteja regulado por sinalização luminosa (semáforo), utilizar-se-á as barras longitudinais paralelas ao eixo da via envez das linhas transversais contínuas;
-         ```
+            - Caso o local disposto para travessia de peões não esteja regulado por sinalização luminosa (semáforo), utilizar-se-á as barras longitudinais paralelas ao eixo da via envez das linhas transversais contínuas;
 
 3. **Marcas Reguladoras de Paragem e Estacionamento**
    - Para regular o estacionamento e a paragem ao longo da faixa de rodagem podem ser utilizadas marcas de cor amarela e estão subdivididas em:
@@ -171,16 +173,12 @@
       1. **Linha Contínua Amarela**
          - Linha contínua junto ao limite da faixa de rodagem e linha sobre o bordo do passeio, indicam que é proibido parar ou estacionar daquele lado da faixa de rodagem e em toda extensão dessa linha;
 
-         ```txt
-         - A proibição imposta por essa marca pode também limitar-se no tempo ou a determinada espécie de veículos, de acordo com as indicações constantes da sinalização vertical;
-         ```
+            - A proibição imposta por essa marca pode também limitar-se no tempo ou a determinada espécie de veículos, de acordo com as indicações constantes da sinalização vertical;
 
       2. **Linha Descontínua Amarela**
          - Linha descontínua junto ao limite da faixa de rodagem e linha descontínua sobre o bordo do passeio, indicam que é proibido estacionar daquele lado da faixa de rodagem e em toda extensão dessa linha;
 
-         ```txt
-         - A proibição imposta por essa marca pode também limitar-se no tempo ou a determinada espécie de veículos, de acordo com as indicações constantes da sinalização vertical;
-         ```
+            - A proibição imposta por essa marca pode também limitar-se no tempo ou a determinada espécie de veículos, de acordo com as indicações constantes da sinalização vertical;
 
       3. **Linha em Zigue-Zague de cor amarela (serventina)**
          - Significa a proibição de estacionar do lado da faixa de rodagem delimitada e em toda extensão da mesma;
@@ -197,9 +195,7 @@
       1. **Setas de Selecção**
          - Utilizam-se para orientar os sentidos de trânsito na proximidade de cruzamentos e entrocamentos e significam, quando dispostas em vias de trânsito delimitadas por linhas contínuas, a obrigatoriedade de seguir no sentido ou num dos sentidos por ela apontados;
 
-         ```txt
-         - Estas setas podem ser antecipadas de outras com igual configuração e com função de pré-aviso, as quais podem conter a indicação de via sem saida;
-         ```
+            - Estas setas podem ser antecipadas de outras com igual configuração e com função de pré-aviso, as quais podem conter a indicação de via sem saida;
 
       2. **Setas de Desvio**
          - São de orientação oblíqua ao eixo da via, indicando a conveniência de passar para a via de trânsito que elas apontam ou mesmo, a obrigatoriedade de o fazer em consequência de outra sinalização;
@@ -229,26 +225,20 @@
       7. **Inscrições no Pavimento**
          - Podem utilizar-se inscrições no pavimento para transmitir aos utentes indicações úteis, complementando a sinalização vertical;
 
-         ```txt
-         - Os caracteres e símbolos utilizados nestas inscrições devem ser alongados por forma a serem legíveis pelos condutores a que se destinam;
-            ```
+            - Os caracteres e símbolos utilizados nestas inscrições devem ser alongados por forma a serem legíveis pelos condutores a que se destinam;
 
 6. **Dispositovs Retrorrefletores Complementares** - Estão subdivididos em:
 
    1. **Marcadores**
       - Dispositivos aplicados sobre o pavimento que permitem reforçar a visibilidade das marcas durante a noite ou em condições de visibilidade reduzida;
 
-      ```txt
-      - Os marcadores devem ser de cor branca, salvo quando utilizados em sinalização temporária, caso em que devem ser de cor amarela;
-      - Devem ser de cor verde quando utilizados na delimitação de vias de acesso a portagem;
-      ```
+         - Os marcadores devem ser de cor branca, salvo quando utilizados em sinalização temporária, caso em que devem ser de cor amarela;
+         - Devem ser de cor verde quando utilizados na delimitação de vias de acesso a portagem;
 
-   1. **Delineadores**
+   2. **Delineadores**
       - Dispositivos apoiados no solo ou em equipamentos de segurança, colocados no limite exterior da berma ou do lado esquerdo da faixa de rodagem nos casos em que exista separador central que permitem identificar facilmente aqueles limites durante a noite ou em condições de visibilidade insuficiente;
 
-      ```txt
-      - Os delineadores devem ser de cor branca, salvo os colocados do lado esquerdo em faixas de rodagem com um só sentido de trânsito, que devem ser de cor amarela;
-      ```
+         - Os delineadores devem ser de cor branca, salvo os colocados do lado esquerdo em faixas de rodagem com um só sentido de trânsito, que devem ser de cor amarela;
 
 #### c. **Sinais Luminosos**
 
@@ -281,9 +271,7 @@
 1. Gestuais;
 2. Sonoros;
 
-```txt
-- OBS: As ordens dos agentes reguladores são de Parar e Avançar.
-```
+- **OBS**: As ordens dos agentes reguladores são de Parar e Avançar.
 
 #### f. **Sinais dos Condutores**
 
@@ -299,27 +287,25 @@
          1. Em locais bem iluminados, pela utilização intermitente das luzes;
          2. Nos restantes casos, alternando os máximos com os médios, mas sempre sem provocar encadeamento;
 
-      ```txt
-      Existem várias luzes no veículo e suas principais funções são
+      **Existem várias luzes no veículo e suas principais funções são**:
       
-      - Para assinalar a sua presença e estão subdivididas em:
-         - Luzes de Presença (mínimos), assinalam a presença e a largura do veículo;
-         - Luzes de Presença (laterais), servem para equipar veículos com comprimento superior a 6 metros;
-         - Luzes de Navoeiro, melhoram a iluminação da estrada em condições de visibilidade insuficiente ou reduzida;
-         - Retroflectores, servem para sinalizar a presença do veículo, por reflexão da luz;
-         - Luzes de Chapa de Matrícula, destinada a iluminar a chapa de matrícula da retaguarda e deve permitir a fácil leitura do número de matrícula a uma distância de pelo menos 20 metros;
-         - Luzes Avisadoras de Perigo (intermitentes), destinadas a assinalarem que o veículo representa um perigo especial para outros utentes da via e é constituida pelo funcionamento simultâneo de todos os indicadores de mudança de direcção;
-         - Luzes Delimitadoras, todos os veículos com largura superior a 2.10 metros, com excepção dos tractores e reboques agrícolas, devem possuir duas luzes de cor branca visíveis na frente e duas luzes vermelhas visíveis na retaguarda;
-      
-      - Para Iluminar a via (permitir a condução nocturna):
-         - Luzes de Cruzamento (médios), destinados a iluminar a via numa distância de até 30 metros;
-         - Luzes de Estrada (máximos), destinados a iluminar a via numa distância não inferior a 100 metros;
-      
-      - Para Assinalar Manobras:
-         - Indicadoras de Mudança de Direcção (piscas), destinada a indicar aos outros utentes a intenção de mudar de direcção;
-         - Luzes de Marcha-atrás, destinada a iluminar a estrada para a retaguarda do veículo e avisar os outros utentes que o veículo está ou vai recuar;
-         - Luzes de Travagem (stop), destinada a indicar aos outros utentes o accionamento do travão de serviço;
-      ```
+      - **Para assinalar a sua presença e estão subdivididas em**:
+         - **Luzes de Presença** (mínimos), assinalam a presença e a largura do veículo;
+         - **Luzes de Presença** (laterais), servem para equipar veículos com comprimento superior a 6 metros;
+         - **Luzes de Navoeiro**, melhoram a iluminação da estrada em condições de visibilidade insuficiente ou reduzida;
+         - **Retroflectores**, servem para sinalizar a presença do veículo, por reflexão da luz;
+         - **Luzes de Chapa de Matrícula**, destinada a iluminar a chapa de matrícula da retaguarda e deve permitir a fácil leitura do número de matrícula a uma distância de pelo menos 20 metros;
+         - **Luzes Avisadoras de Perigo** (intermitentes), destinadas a assinalarem que o veículo representa um perigo especial para outros utentes da via e é constituida pelo funcionamento simultâneo de todos os indicadores de mudança de direcção;
+         - **Luzes Delimitadoras**, todos os veículos com largura superior a 2.10 metros, com excepção dos tractores e reboques agrícolas, devem possuir duas luzes de cor branca visíveis na frente e duas luzes vermelhas visíveis na retaguarda;
+
+      - **Para Iluminar a via (permitir a condução nocturna)**:
+         - **Luzes de Cruzamento** (médios), destinados a iluminar a via numa distância de até 30 metros;
+         - **Luzes de Estrada** (máximos), destinados a iluminar a via numa distância não inferior a 100 metros;
+
+      - **Para Assinalar Manobras**:
+         - **Indicadoras de Mudança de Direcção** (piscas), destinada a indicar aos outros utentes a intenção de mudar de direcção;
+         - **Luzes de Marcha-atrás**, destinada a iluminar a estrada para a retaguarda do veículo e avisar os outros utentes que o veículo está ou vai recuar;
+         - **Luzes de Travagem** (stop), destinada a indicar aos outros utentes o accionamento do travão de serviço;
 
    3. **Sinais Gestuais**
       - Comprreende os seguintes gestos:
@@ -377,36 +363,31 @@ A Sinalização Rodoviária está disposta na seguinte hierarquia prioritária:
    3. **Agir**:
       - Corresponde a acção motora e domínio do veículo;
 
-```txt
-Para aplicação das Funções de Condução é necessário que se tenha em conta os seguintes pontos:
+**Para aplicação das Funções de Condução é necessário que se tenha em conta os seguintes pontos**:
 
-- O Tempo de Reação:
+- O **Tempo de Reação**:
   - É o tempo que decorre entre o estímulo visual e a respectiva acção motora ou imobolização do veículo;
 
-- A Distância de Reação:
+- A **Distância de Reação**:
   - É a distância percorrida pelo veículo durante o tempo de reação, cerca de 1 segundo;
 
-- Os Factores que Influênciam o Tempo de Reação:
+- Os **Factores que Influênciam o Tempo de Reação**:
   - O alcool, substâncias intorpecentes, medicamentos, fadiga ou sonolência;
 
-- A Distância de Travagem:
+- A **Distância de Travagem**:
   - É a distância percorrida pelo veículo desde o accionar do travão até a sua imobilização;
 
-- Os Factores que Influenciam a Distância de Travagem:
+- Os **Factores que Influenciam a Distância de Travagem**:
   - Estado de conservação da via, estado de conservação do veículo e condições atmosféricas;
 
-- Distâncias de Segurança:
-  - Frontal - a distância que o condutor deve guardar do veículo precedente, de modo a evitar acidentes em caso de paragem inesperada ou súbita diminuição de velocidade do condutor da frente;
-  - Lateral - a distância que o condutor de um veículo em marcha deve manter entre o seu veículo e os outros que transitam no mesmo sentido ou em sentidos opostos em faixas paralelas a si;
-```
+- **Distâncias de Segurança**:
+  - **Frontal** - a distância que o condutor deve guardar do veículo precedente, de modo a evitar acidentes em caso de paragem inesperada ou súbita diminuição de velocidade do condutor da frente;
+  - **Lateral** - a distância que o condutor de um veículo em marcha deve manter entre o seu veículo e os outros que transitam no mesmo sentido ou em sentidos opostos em faixas paralelas a si;
 
 ### Quem é o **Condutor**?
 
 - É o indivíduo que toma os comandos de acção ou guia de um veículo ou animal na via pública;
-
-```txt
-- E é necessário que tenha como virtude, uma boa visão, uma excelente audição e bastante prudência;
-```
+  - E é necessário que tenha como virtude, uma boa visão, uma excelente audição e bastante prudência;
 
 ### Já um **Motorista**?
 
@@ -585,16 +566,18 @@ Ao proceder com o exercício da condução, o condutor deve:
 - Denomina-se **Escapatória** a zona fora da faixa de rodagem destinada a imobilizaçã de veículos em caso de falha no sistema de travagem;
 - Uma **Via de Sentido Reversível** é uma via onde o sentido de trânsito pode ser alterado a qualquer momento;
 - **Via de Abrandamento** é uma via de trânsito resultante do alargamento da faixa de rodagem, destinada a permitir aos condutores que transitem na via diminuam a velocidade já fora da corrente de trânsito principal;
+<<<<<<< HEAD
 - **Intersecções de Nível** é cruzamento de vias ao mesmo nível e compreende os cruzamentos, entrocamentos, rotundas;
 - **Intersecções Desniveladas** é o cruzamento de vias a nível diferente;
+=======
+- **Regra Geral de Prioridade a direita** é um método comum usado na ausência de métodos técnicos e orientam dispensar a prioridade ao veículo da direita em entrocamentos, rotundas e cruzamentos sem sinalização;
+>>>>>>> 226d2cab43716eec8d265c317eda30812b9d9f02
 
 ## Introdução à **Mecânica dos Veículos**
 
 1. Um **automóvel** é definido como um **veículo** com **motor** de propulsão, dotado de pelo menos quatro rodas e **`tara`** superior à 550kg e cuja velocidade é por construção, superior a 25km/h e que se destina a transitar na via pública sem sujeição a carris.
 
-```txt
-Tara: também conhecido como o peso do veículo em ordem de marcha, isto é, sem ocupação ou carga sobre o mesmo.
-```
+**Tara**: também conhecido como o peso do veículo em ordem de marcha, isto é, sem ocupação ou carga sobre o mesmo.
 
 - Um automóvel está constituido por:
   - **Quadro ou Chassi**;
@@ -602,9 +585,7 @@ Tara: também conhecido como o peso do veículo em ordem de marcha, isto é, sem
   - **Caixa ou Carroçaria**;
     - É a estrutura metálica que define as formas do veículo e separa o **`habitáculo`** do compartimento de bagagem.
 
-```txt
-Habitáculo: também conhecido como compartimento fechado de um automóvel destinado ao condutor ou aos ocupantes, contendo várias peças de comando e acomodação.
-```
+**Habitáculo**: também conhecido como compartimento fechado de um automóvel destinado ao condutor ou aos ocupantes, contendo várias peças de comando e acomodação.
 
 1. Um **veículo** é um artefacto com ou sem tracção mecânica, destinado ao transporte de passageiros e de mercadorias.
 
@@ -636,9 +617,9 @@ Habitáculo: também conhecido como compartimento fechado de um automóvel desti
 
 ## **Materiais de Apoio**
 
-- [Manual de Código de Estrada (Angolano) - 2008](assets/codigo_estrada_2008.pdf)
-- [Legislações Complementares ao Código de Estrada (Angolano) - 2002](assets/Codigo_Estrada_Legislacoes_2002.pdf)
-- [Guia de Sinalização Rodoviária (Português) - 2003](assets/Sinalizacao_Rodoviaria.pdf)
+- [*Manual de Código de Estrada (Angolano) - 2008*](assets/codigo_estrada_2008.pdf)
+- [*Legislações Complementares ao Código de Estrada (Angolano) - 2002*](assets/Codigo_Estrada_Legislacoes_2002.pdf)
+- [*Guia de Sinalização Rodoviária (Português) - 2003*](assets/Sinalizacao_Rodoviaria.pdf)
 
 ---
 
