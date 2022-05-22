@@ -1,10 +1,7 @@
 <div align="center">
 
-![gevt-favicon](https://github.com/Nurul-GC/gevt/raw/main/docs/img/favicon_io/android-chrome-192x192.png)
-
-    Breve guia para o curso de condução 
-    baseado nas instruções e normas estabelecidas
-    pela direcção angolana de viação e trânsito.
+![gevt-favicon](https://github.com/Nurul-GC/gevt/raw/main/docs/img/favicon_io/android-chrome-192x192.png) \
+Breve guia para o curso de condução baseado nas instruções e normas estabelecidas pela direcção angolana de viação e trânsito.
 
 </div>
 
