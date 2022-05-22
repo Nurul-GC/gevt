@@ -1,6 +1,6 @@
 <div align="center">
 
-![gevt-favicon](https://github.com/Nurul-GC/gevt/raw/main/docs/img/favicon_io/android-chrome-192x192.png) 
+<img alt="gevt-favicon" src="https://github.com/Nurul-GC/gevt/raw/main/docs/img/favicon_io/android-chrome-192x192.png">
 
 </div>
 
