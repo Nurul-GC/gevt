@@ -1,6 +1,6 @@
 <div align="center">
 
-![gevt-favicon](./img/favicon_io/android-chrome-512x512.png)
+![gevt-favicon](./img/favicon_io/android-chrome-192x192.png)
 
     Breve guia para o curso de condução 
     baseado nas instruções e normas estabelecidas
@@ -566,12 +566,9 @@ Ao proceder com o exercício da condução, o condutor deve:
 - Denomina-se **Escapatória** a zona fora da faixa de rodagem destinada a imobilizaçã de veículos em caso de falha no sistema de travagem;
 - Uma **Via de Sentido Reversível** é uma via onde o sentido de trânsito pode ser alterado a qualquer momento;
 - **Via de Abrandamento** é uma via de trânsito resultante do alargamento da faixa de rodagem, destinada a permitir aos condutores que transitem na via diminuam a velocidade já fora da corrente de trânsito principal;
-<<<<<<< HEAD
 - **Intersecções de Nível** é cruzamento de vias ao mesmo nível e compreende os cruzamentos, entrocamentos, rotundas;
 - **Intersecções Desniveladas** é o cruzamento de vias a nível diferente;
-=======
 - **Regra Geral de Prioridade a direita** é um método comum usado na ausência de métodos técnicos e orientam dispensar a prioridade ao veículo da direita em entrocamentos, rotundas e cruzamentos sem sinalização;
->>>>>>> 226d2cab43716eec8d265c317eda30812b9d9f02
 
 ## Introdução à **Mecânica dos Veículos**
 
